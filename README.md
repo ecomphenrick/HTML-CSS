@@ -3,4 +3,4 @@
 
  Estou aprendendo a criar sites e agora vou gerenciar meus repositórios!
 
-<a href="https://github.com/ecomphenrick/HTML-CSS/Desafios/d010/android.html">Acesse o Site android</a>
+<a href="https://github.com/ecomphenrick/HTML-CSS/Exercícios/EX001/index.html">Acesse o Site android</a>
